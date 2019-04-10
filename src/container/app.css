@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('ElliotSix.ttf') format('truetype');
+}
+
+h1
+{
+  font-family:'MyWebFont';
+  font-size:60px;
+  color:orange;
+}
